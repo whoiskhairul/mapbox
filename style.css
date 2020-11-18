@@ -1,0 +1,32 @@
+.left{
+    height: 250px;
+    width: 250px;
+    background: red;
+}
+.right{
+    height: 250px;
+    width: 250px;
+    background: green;
+}
+.item{
+    display: flex;
+    width: 700px;
+    margin: auto;
+}
+#it{
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.left:hover{
+    text-decoration: none;
+}
+h4{
+    width: 250px;
+    display: block;
+    margin: auto;
+    padding: 100px 0;
+}
